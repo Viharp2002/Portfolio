@@ -455,11 +455,11 @@
   }
   
   .skills-content .right .node::before {
-    width: 92%;
+    width: 92%;  
   }
   
   .skills-content .right .react::before {
-    width: 89%;
+    width: 89%;  
   }
   
   .skills-content .right .ml::before {
